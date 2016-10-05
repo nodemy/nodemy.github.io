@@ -1,0 +1,100 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+
+.brand-color {
+  color: #F47920;
+}
+
+/*.brand-font {
+  font-family: 'Montserrat Alternates';
+}*/
+
+body {
+  font-family: 'Raleway';
+  padding-top: 5px;
+}
+
+main {
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 5px;
+  padding-bottom: 0;
+  margin: 0;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #212121;
+  margin: 0;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+a, a:hover {
+  color: #F47920;
+}
+
+.btn-secondary {
+  color: #F47920;
+}
+
+.card {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+.card-header {
+  height: 130px;
+  background-color: white;
+  border: 0;
+  position: relative
+}
+
+.card-header img {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.card-title {
+  font-weight: bolder;
+  height: 40px;
+}
+
+.card-footer {
+  background-color: white;
+}
+
+/* courses */
+.course {
+
+}
+
+.course-header img {
+  text-align: right;
+  padding-bottom: 5px;
+}
+
+.course-title {
+  font-weight: bolder;
+}
+
+.course-lead {
+  color: #212121;
+  font-size: 16px;
+}
+
+.course-author {
+  color: #212121;
+  font-size: 14px;
+}
+
+.course-summary {
+  background-color: #F8F8F8;
+}

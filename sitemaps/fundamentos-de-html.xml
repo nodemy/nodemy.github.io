@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+{{set "scope.course" "fundamentos-de-html"}}
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/documentos-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/documentos-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/texto-en-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/text-en-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/listas-y-tablas-en-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/listas-y-tablas-en-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/enlaces-en-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/enlaces-en-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/audio-y-video-en-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/audio-y-video-en-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/formularios-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/formularios-html-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/validacion-de-formularios-html.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-html/validacion-de-formularios-html-pr.pdf</loc>
+  </url>
+</urlset>

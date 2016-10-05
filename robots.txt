@@ -1,0 +1,3 @@
+Sitemap: http://nodemy.com/sitemap.xml
+User-agent: *
+Disallow:
