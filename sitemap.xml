@@ -2,11 +2,11 @@
 
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>http://nodemy.com/sitemaps/articulos.xml</loc>
+    <loc>http://nodemy.com/sitemaps/site.xml</loc>
   </sitemap>
-
+  
   <sitemap>
-    <loc>http://nodemy.com/sitemaps/desarrollo-de-aplicaciones-webs-con-express.xml</loc>
+    <loc>http://nodemy.com/sitemaps/articulos.xml</loc>
   </sitemap>
 
   <sitemap>
@@ -14,10 +14,15 @@
   </sitemap>
 
   <sitemap>
-    <loc>http://nodemy.com/sitemaps/fundamentos-de-html.xml</loc>
+    <loc>http://nodemy.com/sitemaps/desarrollo-de-aplicaciones-webs-con-express.xml</loc>
   </sitemap>
 
   <sitemap>
-    <loc>http://nodemy.com/sitemaps/site.xml</loc>
+    <loc>http://nodemy.com/sitemaps/desarrollo-de-aplicaciones-webs-con-react.xml</loc>
   </sitemap>
+
+  <sitemap>
+    <loc>http://nodemy.com/sitemaps/fundamentos-de-html.xml</loc>
+  </sitemap>
+
 </sitemapindex>
