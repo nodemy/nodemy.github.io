@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/curso/desarrollo-de-aplicaciones-react-con-flux/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/despachador-y-acciones.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/almacenes.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/almacenes-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/vistas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/vistas-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/api-fetch.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/desarrollo-de-aplicaciones-react-con-flux/api-fetch-pr.pdf</loc>
+  </url>
+</urlset>
