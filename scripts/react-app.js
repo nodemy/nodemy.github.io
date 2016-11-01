@@ -540,30 +540,7 @@ var Lesson = function (_React$Component) {
                 );
               })
             )
-          )
-
-          // <button type="button"
-          //         className="btn btn-secondary"
-          //         style={{border: 0, backgroundColor: "transparent", padding: 0}}
-          //         title="Selecciona"
-          //         data-html="true"
-          //         data-container="body"
-          //         data-toggle="popover"
-          //         data-placement="bottom"
-          //         data-content={
-          //           props.resource.sources.map(function(src) {
-          //             return `
-          //               <a href="/pub/curso/${context.slug}/${src.resource}"} target="_blank">
-          //                 <span class="fa fa-file-pdf-o" /> ${src.title}
-          //               </a>
-          //               (${src.length}min)
-          //               <br />
-          //             `;
-          //           }).join("")
-          //         }>
-          //   {props.resource.title}
-          // </button>
-          : ""
+          ) : ""
         )
       );
     }
