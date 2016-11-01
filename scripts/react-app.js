@@ -514,20 +514,56 @@ var Lesson = function (_React$Component) {
           props.practice ? " (" + props.practice.length + "min)" : "",
           props.resource ? " | " : "",
           props.resource ? _react2.default.createElement(
-            "button",
-            { type: "button",
-              className: "btn btn-secondary",
-              style: { border: 0, backgroundColor: "transparent", padding: 0 },
-              "data-html": "true",
-              "data-title": "Selecciona",
-              "data-container": "body",
-              "data-toggle": "popover",
-              "data-placement": "bottom",
-              "data-content": props.resource.sources.map(function (src) {
-                return "\n                        <p>\n                          <a href=\"/pub/curso/" + context.slug + "/" + src.resource + "\"} target=\"_blank\">\n                            <span class=\"fa fa-file-pdf-o\" /> " + src.title + "\n                          </a>\n                          (" + src.length + "min)\n                        </p>\n                      ";
-              }).join("") },
-            props.resource.title
-          ) : ""
+            "span",
+            { className: "dropdown" },
+            _react2.default.createElement(
+              "button",
+              { type: "button",
+                style: { border: 0, padding: 0 },
+                className: "btn btn-secondary dropdown-toggle",
+                "data-toggle": "dropdown",
+                "aria-haspopup": "true",
+                "aria-expanded": "false",
+                id: "prueba" },
+              props.resource.title
+            ),
+            _react2.default.createElement(
+              "span",
+              { className: "dropdown-menu", "aria-labelledby": "prueba" },
+              props.resource.sources.map(function (src, ix) {
+                return _react2.default.createElement(
+                  _reactRouter.Link,
+                  { key: ix, className: "dropdown-item", to: "/pub/curso/" + context.slug + "/" + src.resource, target: "_blank" },
+                  _react2.default.createElement("span", { className: "fa fa-file-pdf-o" }),
+                  " ",
+                  src.title
+                );
+              })
+            )
+          )
+
+          // <button type="button"
+          //         className="btn btn-secondary"
+          //         style={{border: 0, backgroundColor: "transparent", padding: 0}}
+          //         title="Selecciona"
+          //         data-html="true"
+          //         data-container="body"
+          //         data-toggle="popover"
+          //         data-placement="bottom"
+          //         data-content={
+          //           props.resource.sources.map(function(src) {
+          //             return `
+          //               <a href="/pub/curso/${context.slug}/${src.resource}"} target="_blank">
+          //                 <span class="fa fa-file-pdf-o" /> ${src.title}
+          //               </a>
+          //               (${src.length}min)
+          //               <br />
+          //             `;
+          //           }).join("")
+          //         }>
+          //   {props.resource.title}
+          // </button>
+          : ""
         )
       );
     }
