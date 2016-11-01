@@ -1719,6 +1719,12 @@ exports.default = {
       "length": 45,
       "resource": "depuracion-de-nodejs-pr.pdf"
     }
+  }, {
+    "title": "Examen",
+    "type": "quiz",
+    "desc": "Evaluación de los conocimientos adquiridos.",
+    "length": 60,
+    "resource": "fundamentos-de-nodejs"
   }]
 };
 
