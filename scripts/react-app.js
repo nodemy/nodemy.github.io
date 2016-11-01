@@ -757,7 +757,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = {
   web: {
     name: "nodemy.com",
-    desc: "Aprende a desarrollar aplicaciones Node, webs y móviles con nodemy.com.",
+    desc: "Aprende a desarrollar aplicaciones Node.js, webs y móviles con nodemy.com.",
     url: "http://nodemy.com"
   },
   quiz: {
