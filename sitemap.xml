@@ -29,4 +29,7 @@
     <loc>http://nodemy.com/sitemaps/fundamentos-de-html.xml</loc>
   </sitemap>
 
+  <sitemap>
+    <loc>http://nodemy.com/sitemaps/fundamentos-de-nodejs.xml</loc>
+  </sitemap>
 </sitemapindex>

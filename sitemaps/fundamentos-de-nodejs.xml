@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/curso/fundamentos-de-nodejs/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/introduccion-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/instalacion-de-nodejs-en-distribuciones-debian.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/instalacion-de-nodejs-en-windows.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modulos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modulos-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/introduccion-a-npm.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/introduccion-a-npm-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/desarrollo-de-paquetes.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/desarrollo-de-paquetes-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/aplicaciones-node.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/aplicaciones-node-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/publicacion-de-paquetes.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/publicacion-de-paquetes-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modelo-asincrono.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modelo-asincrono-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modulo-fs.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modulo-fs-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modulo-path.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modelo-de-eventos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/modelo-de-eventos-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/depuracion-de-nodejs.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/depuracion-de-nodejs-pr.pdf</loc>
+  </url>
+</urlset>
