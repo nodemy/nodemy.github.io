@@ -2,4 +2,12 @@
   <url>
     <loc>http://nodemy.com/</loc>
   </url>
+
+  <url>
+    <loc>http://nodemy.com/cursos</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/especialidades</loc>
+  </url>
 </urlset>
