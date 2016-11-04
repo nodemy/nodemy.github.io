@@ -4,13 +4,27 @@
   color: #F47920;
 }
 
-/*.brand-font {
-  font-family: 'Montserrat Alternates';
-}*/
-
 body {
   font-family: 'Raleway';
   padding-top: 5px;
+}
+
+/* table */
+table {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+tbody > tr:nth-child(odd) {
+  background-color: #F5F5F5;
+}
+
+tr > td:nth-child(n+2) {
+  text-align: center;
+}
+
+td {
+  padding: 10px;
 }
 
 main {
@@ -29,7 +43,7 @@ footer {
 }
 
 h1 {
-  font-size: 20px;
+  /*font-size: 20px;*/
 }
 
 a, a:hover {

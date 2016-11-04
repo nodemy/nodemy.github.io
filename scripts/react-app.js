@@ -33,7 +33,7 @@ function ArticleCard(props) {
       { className: "card-block" },
       _react2.default.createElement(
         "h1",
-        { className: "card-title" },
+        { className: "card-title", style: { fontSize: "20px" } },
         props.title
       ),
       _react2.default.createElement(
@@ -273,7 +273,7 @@ var Course = function (_React$Component) {
               _react2.default.createElement(
                 "dt",
                 null,
-                _react2.default.createElement("span", { className: "fa fa-battery-0" }),
+                _react2.default.createElement("span", { className: "fa fa-battery-3" }),
                 " Nivel"
               ),
               _react2.default.createElement(
@@ -377,7 +377,7 @@ function CourseCard(props) {
       { className: "card-block" },
       _react2.default.createElement(
         "h1",
-        { className: "card-title" },
+        { className: "card-title", style: { fontSize: "20px" } },
         props.title
       ),
       _react2.default.createElement(
@@ -1953,7 +1953,7 @@ var _class = function (_React$Component) {
                     { className: "nav-item" },
                     _react2.default.createElement(
                       _reactRouter.Link,
-                      { to: "/cursos", className: "btn btn-secondary", style: { borderColor: "transparent" }, activeStyle: { backgroundColor: "#F5F5F5" } },
+                      { to: "/cursos", className: "btn btn-secondary", style: { borderColor: "transparent" }, activeStyle: { color: "black", backgroundColor: "#F5F5F5" } },
                       "CURSOS"
                     )
                   ),
@@ -1962,7 +1962,7 @@ var _class = function (_React$Component) {
                     { className: "nav-item" },
                     _react2.default.createElement(
                       _reactRouter.Link,
-                      { to: "/especialidades", className: "btn btn-secondary", style: { borderColor: "transparent" }, activeStyle: { backgroundColor: "#F5F5F5" } },
+                      { to: "/especialidades", className: "btn btn-secondary", style: { borderColor: "transparent" }, activeStyle: { color: "black", backgroundColor: "#F5F5F5" } },
                       "ESPECIALIDADES"
                     )
                   ),
@@ -2616,6 +2616,29 @@ var _class = function (_React$Component) {
                   "li",
                   null,
                   "Desarrollo de software m\xE1s r\xE1pido que con otras plataformas como Java, .NET o PHP."
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "Seg\xFAn un informe de 2015 de ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "Forrester"
+                  ),
+                  ", ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "Node.js"
+                  ),
+                  " ser\xE1 la ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "tecnolog\xEDa predominante"
+                  ),
+                  " en muchas arquitecturas de software."
                 )
               ),
               _react2.default.createElement("hr", null),
@@ -2818,173 +2841,421 @@ var _class = function (_React$Component) {
     value: function render() {
       return _react2.default.createElement(
         "div",
-        { className: "container", style: { textAlign: "center" } },
+        { className: "container" },
         _react2.default.createElement(
-          "div",
-          { className: "row", style: { fontWeight: "bold" } },
+          "h1",
+          null,
+          "Especialidades"
+        ),
+        _react2.default.createElement(
+          "p",
+          null,
+          "Una ",
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
+            "strong",
+            null,
+            "especialidad"
+          ),
+          " es un conjunto de cursos a trav\xE9s de los cuales adquirir los conocimientos de una determinada rama de desarrollo."
+        ),
+        _react2.default.createElement(
+          "p",
+          null,
+          "En ",
+          _react2.default.createElement(
+            "span",
+            { className: "brand-color" },
+            "Nodemy"
+          ),
+          ", hemos dise\xF1ado varias especialidades, todas ellas centradas en ",
+          _react2.default.createElement(
+            "strong",
+            null,
+            "JavaScript"
+          ),
+          ", con objeto de reducir la curva de aprendizaje. Algunos cursos son espec\xEDficos de una determinada especialidad, mientras que otros se han dise\xF1ado para ser reutilizados en varias. As\xED podr\xE1s ampliar f\xE1cilmente tus conocimientos de una especialidad a otra."
+        ),
+        _react2.default.createElement(
+          "p",
+          null,
+          "Nuestra recomendaci\xF3n es que elijas una especialidad, aquella que m\xE1s te interese en este momento, y realices sus cursos. Una vez terminada, puedes elegir otra y completarla con los cursos faltantes."
+        ),
+        _react2.default.createElement(
+          "h2",
+          null,
+          "Cat\xE1logo de especialidades"
+        ),
+        _react2.default.createElement(
+          "p",
+          null,
+          "La relaci\xF3n de especialidades que se imparten en ",
+          _react2.default.createElement(
+            "span",
+            { className: "brand-color" },
+            "Nodemy"
+          ),
+          " son:"
+        ),
+        _react2.default.createElement(
+          "dl",
+          null,
+          _react2.default.createElement(
+            "dt",
+            null,
             "Fundamentos de Node.js"
           ),
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
+            "dd",
+            null,
+            "Preparaci\xF3n para el desarrollo de aplicaciones mediante ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "JavaScript"
+            ),
+            " y ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "Node.js"
+            ),
+            "."
+          ),
+          _react2.default.createElement(
+            "dt",
+            null,
             "Desarrollo de aplicaciones webs"
           ),
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
+            "dd",
+            null,
+            "Preparaci\xF3n para el desarrollo de aplicaciones webs mediante ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "JavaScript"
+            ),
+            ", ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "Node.js"
+            ),
+            ", ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "Express"
+            ),
+            " y ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "React"
+            ),
+            "."
+          ),
+          _react2.default.createElement(
+            "dt",
+            null,
             "Desarrollo de aplicaciones m\xF3viles"
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row", style: { backgroundColor: "#F5F5F5" } },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-12" },
-            "Aprende a programar con JavaScript"
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row" },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-12" },
-            _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/fundamentos-de-nodejs" },
-              "Fundamentos de Node.js"
-            )
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row", style: { backgroundColor: "#F5F5F5" } },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-12" },
-            _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/automatizacion-con-justojs" },
-              "Automatizaci\xF3n con Justo.js"
-            )
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row" },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-12" },
-            _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/fundamentos-de-html" },
-              "Fundamentos de HTML"
-            )
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row", style: { backgroundColor: "#F5F5F5" } },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
           ),
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-8" },
+            "dd",
+            null,
+            "Preparaci\xF3n para el desarrollo de aplicaciones m\xF3viles nativas mediante ",
             _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/desarrollo-de-aplicaciones-webs-con-react" },
-              "Desarrollo de aplicaciones webs con React"
-            )
+              "strong",
+              null,
+              "JavaScript"
+            ),
+            ", ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "Node.js"
+            ),
+            ", ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "React"
+            ),
+            " y ",
+            _react2.default.createElement(
+              "strong",
+              null,
+              "React Native"
+            ),
+            "."
           )
         ),
         _react2.default.createElement(
-          "div",
-          { className: "row" },
+          "table",
+          null,
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
-          ),
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-8" },
+            "thead",
+            null,
             _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/desarrollo-de-aplicaciones-react-con-flux" },
-              "Desarrollo de aplicaciones React con Flux"
-            )
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row", style: { backgroundColor: "#F5F5F5" } },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
-          ),
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
-          ),
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "Desarrollo de aplicaciones m\xF3viles con React Native"
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row" },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-8" },
-            _react2.default.createElement(
-              _reactRouter.Link,
-              { to: "/curso/desarrollo-de-aplicaciones-webs-con-express" },
-              "Desarrollo de aplicaciones webs con Express"
+              "tr",
+              null,
+              _react2.default.createElement("th", null),
+              _react2.default.createElement(
+                "th",
+                null,
+                "Node.js"
+              ),
+              _react2.default.createElement(
+                "th",
+                null,
+                "Web"
+              ),
+              _react2.default.createElement(
+                "th",
+                null,
+                "M\xF3vil"
+              )
             )
           ),
           _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row", style: { backgroundColor: "#F5F5F5" } },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-12" },
-            "Fundamentos de CSS y Sass"
-          )
-        ),
-        _react2.default.createElement(
-          "div",
-          { className: "row" },
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
-          ),
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "Desarrollo de aplicaciones webs adaptables con Bootstrap"
-          ),
-          _react2.default.createElement(
-            "div",
-            { className: "col-xs-4" },
-            "-"
+            "tbody",
+            null,
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                "Aprende a programar con JavaScript"
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/fundamentos-de-nodejs" },
+                  "Fundamentos de Node.js"
+                )
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/automatizacion-con-justojs" },
+                  "Automatizaci\xF3n con Justo.js"
+                )
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/fundamentos-de-html" },
+                  "Fundamentos de HTML"
+                )
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                "Fundamentos de CSS y Sass"
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                "Desarrollo de aplicaciones webs adaptables con Bootstrap"
+              ),
+              _react2.default.createElement("td", null),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement("td", null)
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/desarrollo-de-aplicaciones-webs-con-express" },
+                  "Desarrollo de aplicaciones webs con Express"
+                )
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement("td", null)
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/desarrollo-de-aplicaciones-webs-con-react" },
+                  "Desarrollo de aplicaciones webs con React"
+                )
+              ),
+              _react2.default.createElement("td", null),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { to: "/curso/desarrollo-de-aplicaciones-react-con-flux" },
+                  "Desarrollo de aplicaciones React con Flux"
+                )
+              ),
+              _react2.default.createElement("td", null),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              ),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            ),
+            _react2.default.createElement(
+              "tr",
+              null,
+              _react2.default.createElement(
+                "td",
+                null,
+                "Desarrollo de aplicaciones m\xF3viles con React Native"
+              ),
+              _react2.default.createElement("td", null),
+              _react2.default.createElement("td", null),
+              _react2.default.createElement(
+                "td",
+                null,
+                _react2.default.createElement("span", { className: "fa fa-check" })
+              )
+            )
           )
         )
       );
