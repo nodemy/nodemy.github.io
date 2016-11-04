@@ -2654,6 +2654,145 @@ var _class = function (_React$Component) {
               )
             )
           )
+        ),
+        _react2.default.createElement(
+          "div",
+          { className: "jumbotron", style: { backgroundColor: "#F5F5F5", borderColor: "#C2C2C2" } },
+          _react2.default.createElement(
+            "div",
+            { className: "row" },
+            _react2.default.createElement(
+              "div",
+              { className: "col-xs-12 col-md-3" },
+              _react2.default.createElement(
+                "p",
+                { style: { textAlign: "center" } },
+                _react2.default.createElement("img", { src: "/images/developer-125.png", alt: "Software developer logo." })
+              )
+            ),
+            _react2.default.createElement(
+              "div",
+              { className: "col-xs-12 col-md-9" },
+              _react2.default.createElement(
+                "h2",
+                null,
+                "\xBFQu\xE9 es un desarrollador?"
+              ),
+              _react2.default.createElement(
+                "p",
+                null,
+                "Un ",
+                _react2.default.createElement(
+                  "strong",
+                  null,
+                  "desarrollador"
+                ),
+                " es una persona que realiza aplicaciones de software como aplicaciones de escritorio, webs o m\xF3viles."
+              ),
+              _react2.default.createElement(
+                "h2",
+                null,
+                "\xBFPor qu\xE9 aprender a desarrollar software?"
+              ),
+              _react2.default.createElement(
+                "p",
+                null,
+                "Seg\xFAn un informe de ",
+                _react2.default.createElement(
+                  "strong",
+                  null,
+                  "Business Insider"
+                ),
+                ", los desarrolladores de aplicaciones se encuentran en el ",
+                _react2.default.createElement(
+                  "strong",
+                  null,
+                  _react2.default.createElement(
+                    "i",
+                    { lang: "en" },
+                    "top"
+                  ),
+                  " 5 de profesiones"
+                ),
+                " desde hace a\xF1os y se confirma la tendencia para los pr\xF3ximos."
+              ),
+              _react2.default.createElement(
+                "h2",
+                null,
+                "\xBFPor qu\xE9 aprender a desarrollar aplicaciones webs y m\xF3viles?"
+              ),
+              _react2.default.createElement(
+                "ul",
+                null,
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "La web es la principal fuente de informaci\xF3n hoy en d\xEDa. Se confirma la tendencia de que el m\xF3vil ser\xE1 la principal fuente de consulta de la web."
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "Crece el uso de m\xF3viles. S\xF3lo en Espa\xF1a, m\xE1s del ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "85% de la poblaci\xF3n cuenta con al menos un dispositivo m\xF3vil"
+                  ),
+                  ". Cada a\xF1o se venden miles de millones de terminales en todo el mundo."
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "Cada vez son m\xE1s los usuarios que ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "usan el m\xF3vil m\xE1s de dos horas diarias"
+                  ),
+                  ". Los usuarios cada vez son m\xE1s dependientes del m\xF3vil."
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "Cada mes se publica ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "m\xE1s de 40.000 nuevas aplicaciones m\xF3viles"
+                  ),
+                  "."
+                ),
+                _react2.default.createElement(
+                  "li",
+                  null,
+                  "La ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "publicidad"
+                  ),
+                  " en tel\xE9fonos m\xF3viles ha superado los ",
+                  _react2.default.createElement(
+                    "strong",
+                    null,
+                    "10.000 millones"
+                  ),
+                  "."
+                )
+              ),
+              _react2.default.createElement("hr", null),
+              _react2.default.createElement(
+                "p",
+                { style: { textAlign: "center" } },
+                _react2.default.createElement(
+                  _reactRouter.Link,
+                  { className: "btn btn-secondary", to: "/cursos", style: { backgroundColor: "transparent" } },
+                  _react2.default.createElement("span", { className: "fa fa-graduation-cap" }),
+                  " Cursos"
+                )
+              )
+            )
+          )
         )
       );
     }
