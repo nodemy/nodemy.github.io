@@ -98,4 +98,12 @@
   <url>
     <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/depuracion-de-nodejs-pr.pdf</loc>
   </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/promesas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/fundamentos-de-nodejs/promesas-pr.pdf</loc>
+  </url>
 </urlset>

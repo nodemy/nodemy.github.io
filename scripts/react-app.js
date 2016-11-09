@@ -310,7 +310,7 @@ var Course = function (_React$Component) {
                 "dt",
                 null,
                 _react2.default.createElement("span", { className: "fa fa-edit" }),
-                " Versi\xF3n"
+                " Versi\xF3n del curso"
               ),
               _react2.default.createElement(
                 "dd",
@@ -1579,7 +1579,7 @@ exports.default = {
   "author": "Raúl G. González",
   "length": "9h",
   "date": "Noviembre, 2016",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "syllabus": [{
     "title": "Introducción",
     "type": "lesson",
@@ -1719,6 +1719,18 @@ exports.default = {
     "practice": {
       "length": 45,
       "resource": "depuracion-de-nodejs-pr.pdf"
+    }
+  }, {
+    "title": "Promesas",
+    "type": "lesson",
+    "desc": "Describe el uso de promesas JavaScript en Node.js.",
+    "lecture": {
+      "length": 20,
+      "resource": "promesas.pdf"
+    },
+    "practice": {
+      "length": 20,
+      "resource": "promesas-pr.pdf"
     }
   }, {
     "title": "Examen",
