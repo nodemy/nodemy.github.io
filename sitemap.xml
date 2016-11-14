@@ -10,6 +10,10 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://nodemy.com/sitemaps/acceso-a-bases-de-datos-sqlite-con-nodejs.xml</loc>
+  </sitemap>
+
+  <sitemap>
     <loc>http://nodemy.com/sitemaps/automatizacion-con-justojs.xml</loc>
   </sitemap>
 

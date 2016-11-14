@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/introduccion-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/consultas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/consultas-pr.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/conceptos-avanzados.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/acceso-a-bases-de-datos-sqlite-con-nodejs/conceptos-avanzados-pr.pdf</loc>
+  </url>
+</urlset>
