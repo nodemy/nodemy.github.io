@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/instancias-de-bases-de-datos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/shell-e-interfaz-web-de-arangodb.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/autenticacion-de-usuarios.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/bases-de-datos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/colecciones-de-documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/insercion-de-documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/seleccion-simple-de-documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/operadores-aql.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/actualizacion-de-documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/supresion-de-documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/funciones-aql-predefinidas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/funciones-aql-de-usuario.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/seleccion-multicoleccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/introduccion-a-los-indices.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/indices-en-arangodb.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/transacciones.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-arangodb/busqueda-de-texto.pdf</loc>
+  </url>
+</urlset>
