@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/instancias-de-bases-de-datos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/bases-de-datos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/cadenas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/modulos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/listas.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/conjuntos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/servicio-de-mensajeria.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/arrays-asociativos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/json.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/introduccion-a-lua.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/scripts-lua-en-redis.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/bibliotecas-de-lua.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/depuracion-de-scripts-lua-en-redis.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/introduccion-a-las-transacciones.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/transacciones-en-redis.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/cursores.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/modulos-en-lua.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-bases-de-datos-nosql-con-redis/poo-en-lua.pdf</loc>
+  </url>
+</urlset>
