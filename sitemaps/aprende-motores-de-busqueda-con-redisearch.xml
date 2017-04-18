@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/introduccion.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/instalacion-de-redisearch.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/indices-de-busqueda.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/documentos.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/consultas-de-busqueda.pdf</loc>
+  </url>
+
+  <url>
+    <loc>http://nodemy.com/pub/curso/aprende-motores-de-busqueda-con-redisearch/diccionarios-de-sugerencias.pdf</loc>
+  </url>
+</urlset>

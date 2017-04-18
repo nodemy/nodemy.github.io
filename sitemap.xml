@@ -22,6 +22,10 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://nodemy.com/sitemaps/aprende-motores-de-busqueda-con-redisearch.xml</loc>
+  </sitemap>
+
+  <sitemap>
     <loc>http://nodemy.com/sitemaps/automatizacion-de-tareas-con-justojs.xml</loc>
   </sitemap>
 
